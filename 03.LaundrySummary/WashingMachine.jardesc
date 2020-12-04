@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="/Users/tahsinahmed/Desktop/CST3650/Assignment#6/public/ahmed-tahsin-WashingMachine.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/03.LaundrySummary/WashingMachine.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <folder path="/03.LaundrySummary/lib"/>
+        <folder path="/03.LaundrySummary/src"/>
+        <file path="/03.LaundrySummary/.classpath"/>
+        <javaElement handleIdentifier="=03.LaundrySummary/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/"/>
+        <javaElement handleIdentifier="=03.LaundrySummary/src\/test\/resources=/test=/true=/=/maven.pomderived=/true=/"/>
+        <folder path="/03.LaundrySummary/target"/>
+        <javaElement handleIdentifier="=03.LaundrySummary/src\/main\/resources=/maven.pomderived=/true=/"/>
+        <javaElement handleIdentifier="=03.LaundrySummary/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/"/>
+        <file path="/03.LaundrySummary/.project"/>
+        <file path="/03.LaundrySummary/pom.xml"/>
+    </selectedElements>
+</jardesc>
